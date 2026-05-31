@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    
     public static PlayerController Instance;
 
     private Rigidbody2D rb;
@@ -36,4 +37,8 @@ public class PlayerController : MonoBehaviour
     {
        rb.linearVelocity = new Vector2(movement.x * speed, movement.y * speed);
     }
+    public void TakeDamage(int damage)
+    {
+
+    }    
 }
