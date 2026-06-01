@@ -1,44 +1,31 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+
+[RequireComponent(typeof(Rigidbody2D)) ]
 
 public class PlayerController : MonoBehaviour
 {
-    
-    public static PlayerController Instance;
+    public float speed = 5f;
+
+    Animate animate;
 
     private Rigidbody2D rb;
-    private Vector2 movement;
+    private Vector3 movementVector;
 
-    [SerializeField] float speed = 1.2f;
-
-    void Awake()
-    {
-        if (Instance != null)
-        {
-            Destroy(gameObject);
-        }
-        else
-        {
-            Instance = this;
-        }
-    }
-    void Start()
+    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animate = GetComponent<Animate>();
     }
-
     void Update()
     {
-        float inputX = Input.GetAxisRaw("Horizontal");
-        float inputY = Input.GetAxisRaw("Vertical");
-        movement = new Vector2(inputX, inputY).normalized;
-    }
-    void FixedUpdate()
-    {
-       rb.linearVelocity = new Vector2(movement.x * speed, movement.y * speed);
-    }
-    public void TakeDamage(int damage)
-    {
+        movementVector.x = Input.GetAxisRaw("Horizontal");
+        movementVector.y = Input.GetAxisRaw("Vertical");
+        
+        animate.moveX = movementVector.x;
+        animate.moveY = movementVector.y;
 
-    }    
+        rb.linearVelocity = new Vector2(movementVector.x, movementVector.y).normalized * speed;
+    }
 }

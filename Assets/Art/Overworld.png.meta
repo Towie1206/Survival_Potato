@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 69aaa12f5ba789e419ea4c789bd8e1fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2671460228953875570
+    second: Overworld_0
+  - first:
+      213: -2689026045669087484
+    second: Overworld_1
+  - first:
+      213: -7179496123588461096
+    second: Overworld_2
+  - first:
+      213: 5358339777047750641
+    second: Overworld_3
+  - first:
+      213: 136357672767500387
+    second: Overworld_4
+  - first:
+      213: 8004674553903682165
+    second: Overworld_5
+  - first:
+      213: -4047186976618406303
+    second: Overworld_6
+  - first:
+      213: -5552291726514319404
+    second: Overworld_7
+  - first:
+      213: 6677391079157347707
+    second: Overworld_8
+  - first:
+      213: 3745290752181560014
+    second: Overworld_9
+  - first:
+      213: 1829778442542560619
+    second: Overworld_10
+  - first:
+      213: 1042250435856239393
+    second: Overworld_11
+  - first:
+      213: 8276858336128014628
+    second: Overworld_12
+  - first:
+      213: 22681670905886300
+    second: Overworld_13
+  - first:
+      213: 1620404892285306412
+    second: Overworld_14
+  - first:
+      213: 1242996465418633367
+    second: Overworld_15
+  - first:
+      213: -2999399142424580601
+    second: Overworld_16
+  - first:
+      213: 1195820583082778069
+    second: Overworld_17
+  - first:
+      213: -4496587874173803107
+    second: Overworld_18
+  - first:
+      213: -910953043492846142
+    second: Overworld_19
+  - first:
+      213: 3471338428925595606
+    second: Overworld_20
+  - first:
+      213: 6307966979952246190
+    second: Overworld_21
+  - first:
+      213: -1133759038122202709
+    second: Overworld_22
+  - first:
+      213: -191729290340861241
+    second: Overworld_23
+  - first:
+      213: -5666481261984047100
+    second: Overworld_24
+  - first:
+      213: -67688370196173548
+    second: Overworld_25
+  - first:
+      213: 8503925898108693791
+    second: Overworld_26
+  - first:
+      213: -158234911645668671
+    second: Overworld_27
+  - first:
+      213: 1057873545096308223
+    second: Overworld_28
+  - first:
+      213: -4390251584830932216
+    second: Overworld_29
+  - first:
+      213: 9127930197081173706
+    second: Overworld_30
+  - first:
+      213: 4304790786426730767
+    second: Overworld_31
+  - first:
+      213: -3594059735059639123
+    second: Overworld_32
+  - first:
+      213: 4003859095993293133
+    second: Overworld_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fountain1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bde9563111dead0800000000000000
+      internalID: -2671460228953875570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 529
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e921f33e085d7c0800000000000000
+      internalID: -4047186976618406303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 232
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6b4caf26ddcdf0800000000000000
+      internalID: -158234911645668671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5afb862625eae00800000000000000
+      internalID: 1057873545096308223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 232
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b7e83b171b213c0800000000000000
+      internalID: -4390251584830932216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 480
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859db19f26969a440a1616b1ac564265
+      internalID: -54864512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStamp
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 496
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f5cabfcad4b740b1700f37fec6a8f
+      internalID: 1348469331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 467
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fbd1806783aa4080ee57c5679a3ad
+      internalID: 1531431772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 76f5e775a368517468dc315cafe9ec15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fountain1: -2671460228953875570
+      Grave: 1531431772
+      Log: -54864512
+      Overworld_1: -2689026045669087484
+      Overworld_10: 1829778442542560619
+      Overworld_11: 1042250435856239393
+      Overworld_12: 8276858336128014628
+      Overworld_13: 22681670905886300
+      Overworld_14: 1620404892285306412
+      Overworld_15: 1242996465418633367
+      Overworld_16: -2999399142424580601
+      Overworld_17: 1195820583082778069
+      Overworld_18: -4496587874173803107
+      Overworld_19: -910953043492846142
+      Overworld_2: -7179496123588461096
+      Overworld_20: 3471338428925595606
+      Overworld_21: 6307966979952246190
+      Overworld_22: -1133759038122202709
+      Overworld_23: -191729290340861241
+      Overworld_24: -5666481261984047100
+      Overworld_25: -67688370196173548
+      Overworld_26: 8503925898108693791
+      Overworld_27: -158234911645668671
+      Overworld_28: 1057873545096308223
+      Overworld_29: -4390251584830932216
+      Overworld_3: 5358339777047750641
+      Overworld_30: 9127930197081173706
+      Overworld_31: 4304790786426730767
+      Overworld_32: -3594059735059639123
+      Overworld_33: 4003859095993293133
+      Overworld_4: 136357672767500387
+      Overworld_5: 8004674553903682165
+      Overworld_6: -4047186976618406303
+      Overworld_7: -5552291726514319404
+      Overworld_8: 6677391079157347707
+      Overworld_9: 3745290752181560014
+      TreeStamp: 1348469331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
